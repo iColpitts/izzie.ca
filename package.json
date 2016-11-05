@@ -8,6 +8,7 @@
   },
   "bugs": "https://github.com/icolpitts/izzie-ca/issues",
   "dependencies": {
+    "spike": "^0.12.2",
     "babel-preset-latest": "^6.14.0",
     "hard-source-webpack-plugin": "0.0.38",
     "image-webpack-loader": "^3.0.0",
